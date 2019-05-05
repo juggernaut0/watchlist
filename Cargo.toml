@@ -1,0 +1,8 @@
+[package]
+name = "watchlist"
+version = "0.1.0"
+authors = ["Tom Warner <tomwamt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul" }
